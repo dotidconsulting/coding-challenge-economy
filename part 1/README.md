@@ -19,6 +19,7 @@ The data can be found in the [data folder](https://github.com/dotidconsulting/co
 -	The function accepts the following parameter: @ClientID int
 
 
+
 > **hint:** the [ChangeYear1Year2] and [Changeper] columns needs to be created through the query. ChangeYear1Year2 is the difference between years (ie: for 2011, 1614 is the difference between 2010 and 2011 figures) Changeper is the same only expressed in percentage.
 
 ![image info](./result.png)
