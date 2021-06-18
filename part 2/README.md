@@ -6,7 +6,7 @@ The data can be found in the [data folder](https://github.com/dotidconsulting/co
 
 ### Requirements:
 - Put this data (SEIFA_2011 / SEIFA 2016) into a database, must be (any version of) SQL 
-- Crreate a web application to present this data from the database. 
+- Create a web application to present this data from the database. 
 - Commit your work in a GIT repository or provide a zip folder containing all the files necessary so we can run them.
 
 ### Acceptance criteria:
