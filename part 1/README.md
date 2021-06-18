@@ -1,10 +1,6 @@
-# Coding challenge for economy Part 1
+# Part 1: Write a SQL Query
 
-Hi! please feel free to ask any question regarding the test if you have any doubts.
-
-# Write a SQL Query
-
-You’ll need to write a SQL function to query a table.
+In this task you’ll need to write a SQL function to query a table.
 
 The data can be found in the [data folder](https://github.com/dotidconsulting/coding-challenge-economy/tree/main/part%201/data) of this repository and have the following schema:
 
@@ -16,10 +12,10 @@ The data can be found in the [data folder](https://github.com/dotidconsulting/co
 
 ### Requirements:
 -	Import this data (v_IN_ERPPivot.csv) into a database, this database must be (any version of) SQL 
--	Commit your work to a GIT repository or provide a folder containing your DB
+-	Commit your work to a GIT repository or provide a folder containing your database
 
 ### Acceptance criteria:
--	build a SQL function to query the table you created above so that the result of your query matches the first 7 columns in the screenshot below (in yellow), the rest of the table is optional but feel free to give it a go if you have some time!
+-	build a SQL function to query the table you created above so that the result of your query matches the first 7 columns in the screenshot below (in yellow), the rest of the table is optional but feel free to give it a go if you have some time.
 -	The function accepts the following parameter: @ClientID int
 
 GOOD LUCK!
