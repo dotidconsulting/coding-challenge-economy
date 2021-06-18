@@ -6,5 +6,7 @@ Hi! please feel free to ask any question regarding the test if you have any doub
 
 You’ll need to write a SQL function to query a table.
 
+The data can be found in the [data folder](https://github.com/dotidconsulting/coding-challenge-economy/tree/main/part%201/data)
+
 
 ![image info](./table.png)
