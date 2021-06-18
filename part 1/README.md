@@ -5,3 +5,6 @@ Hi! please feel free to ask any question regarding the test if you have any doub
 # Part 1 – Write a SQL Query
 
 You’ll need to write a SQL function to query a table.
+
+
+![image info](./table.png)
