@@ -11,10 +11,10 @@ The data can be found in the [data folder](https://github.com/dotidconsulting/co
 
 ### Acceptance criteria:
 - The web app should display the following info to the user:
---      place name 
---      state name 
---	    SEIFA Disadvantage scores for 2016 and 2011 
---	    a comparison of the 2016 and 2011 scores (difference)
+--place name 
+--state name 
+--SEIFA Disadvantage scores for 2016 and 2011 
+--a comparison of the 2016 and 2011 scores (difference)
 
 - The web app should also:
 --	    display VIC results as default and 
