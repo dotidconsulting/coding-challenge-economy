@@ -1,6 +1,6 @@
 # Part 2 – Build a small web application
 
-In this task You’ll need to build a small web application to display some data using the technology of your choice. It does not have to look pretty or doesn’t have to use any specific front end technology, use what you are comfortable with, we’ll evaluate your solution based on readability, simplicity, scalability and performance.
+In this task you’ll need to build a small web application to display some data using the technology of your choice. It does not have to look pretty or doesn’t have to use any specific front end technology, use what you are comfortable with, we’ll evaluate your solution based on readability, simplicity, scalability and performance.
 
 The data can be found in the [data folder](https://github.com/dotidconsulting/coding-challenge-economy/tree/main/part%202/data) of this repository
 
